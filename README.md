@@ -1,4 +1,4 @@
-﻿# Cmdr)Scotty's Ender 3 V2 Neo Configs for Klipper
+﻿# Cmdr_Scotty's Ender 3 V2 Neo Configs for Klipper
 
  Kenneth (cmdr_scotty) Walters
  www.commanderscotty.com
